@@ -23,7 +23,7 @@
             </feature> 
         </config-file> 
                 
-        <source-file src="src/android/FileChooser.java" target-dir="src/com/megster/cordova"/>
+        <source-file src="src/android/FileChooser.java" target-dir="app/src/com/megster/cordova"/>
                         
     </platform>
     
